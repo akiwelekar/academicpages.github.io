@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+# Book
+A book on **[Information and Communication and Technologies for Sustainable Development](https://www.amazon.in/Information-Communication-Technologies-Sustainable-Development/dp/1685860397/ref=sr_1_1?crid=1HV445BKKD1BL&keywords=kiwelekar&qid=1641909389&sprefix=kiwelekar%2Caps%2C416&sr=8-1)** pbulished Notion Press 2021.
+
 
 # Book Chapters (Total 13)
 
