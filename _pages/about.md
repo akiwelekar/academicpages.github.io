@@ -15,3 +15,8 @@ redirect_from:
 
 News, Recent Publications, and Talks
 ======
+
+1. I will delivering a talk on **[ANALYZING SOFTWARE SYSTEMS THROUGH SOCIAL NETWORK ANALYSIS](https://isoft.acm.org/isec2022/tech_sna)** in the *15th Innovations in Software Engineering Conference* ISEC 2022 24 - 26 February, DA-IICT Gandhinagar, India.
+2. A paper has baccepted authored by Sanjay B Thakre, Arvind W Kiwelekar  **Software Layer Recovery through Ego Network Analysis** in the   The 37th *ACM/SIGAPP Symposium On Applied Computing*  SAC-2022 to be held from April 25 - April 29, 2022.
+3. A paper has been published authored by Sanjay B Thakre, Arvind W Kiwelekar  **Mapping Program Elements to Layers using Centrality Measures and Machine Learning Techniques** in the   first International Workshop on Software Architecture and Machine Learning(SAML) Co-located with the *15th European Conference on Software Architecture (ECSA) 2021* 14th  September 2021.
+ 
