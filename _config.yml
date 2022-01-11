@@ -80,21 +80,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Arvind W Kiwelekar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A Diehard Optimist"
+  location         : "Lonere-India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  DBLP             : "https://dblp.org/pid/48/6181.html"
+  googlescholar    : "https://scholar.google.co.in/citations?user=yXq665QAAAAJ&hl=en"
+  email            : "awk@dbatu.ac.in, akiwelekar@gmail.com"
+  Salesforce Traihead    : "hhttps://trailblazer.me/id/akiwelekar"
+  LinkedIn         : "https://www.linkedin.com/in/arvind-kiwelekar-a2a39821/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/akiwelekar/"
   foursquare       :
   github           : "academicpages"
   google_plus      :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3407-0221"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "rhttps://www.twitter.com/akiwelekar"
   vine             :
   weibo            :
   xing             :
