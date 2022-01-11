@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**Arvind W Kiwelekar** is a Professor in the [Department of Computer Engineering](http://cse.dbatu.ac.in/) at [Dr Babasaheb Ambedkar Technological University-Lonere, India](https://dbatu.ac.in/). He is the founding head of the department. He has thirty years of teaching and research experience. His areas of interest include diverse topics, including Artificial Intelligence, Blockchain Technology, Information and Communication Technologies for Sustainable Development (ICT4SD), Learning Analytics, Ontology, and Software Architecture. He published several papers at leading venues such as ECSA, IJCAI, ICSE, CompSAC and SAC. He graduated with a PhD from [Indian Institute of Technology Bombay (2012)](https://www.cse.iitb.ac.in/), M E from [Veermata Jijabai Technical Institute (VJTI) Mumbai(1997)](https://vjti.ac.in/) and B E from [Marathwada University (1991)](https://www.sggs.ac.in/). He received a research fellowship from the Indian Academy of Sciences Bangalore, Ministry of Education Govt. of India and IBM. Alumni of the Department of Computer Engineering at DBATU has constituted an award to honour his dedication towards teaching.
+
+
+
 
 A data-driven personal website
 ======
