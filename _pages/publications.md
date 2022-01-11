@@ -24,7 +24,7 @@ A book on **[Information and Communication and Technologies for Sustainable Deve
 10. Kiwelekar, Manjushree Laddha, Laxman Netak, Sanil Gandhi, **An Architectural Perspective for Learning Analytics**, in a Book “Advances in Learning Analytics” Publisher: Springer.
 11.  Gaurav Paliwal, Arvind W. Kiwelekar **A Product Line Architecture for Mobile Patient Monitoring System**  in a book titled on  Mobile Health (mHealth): The Technology Road Map published by Springer (2015).
 
-# Journal Papers 
+# Journal Papers (Total 9)
 
 
 1. Rachit Garg, Arvind W Kiwelekar, Laxman D Netak, Akshay Ghodake, **Logistics and Freight Transportation Management: An NLP based Approach for Shipment Tracking**, Pertanika Journal of Science and Technology.
