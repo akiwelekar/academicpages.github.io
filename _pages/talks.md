@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Tutorials
-1. delivering a talk on ANALYZING SOFTWARE SYSTEMS THROUGH SOCIAL NETWORK ANALYSIS in the 15th Innovations in Software Engineering Conference ISEC 2022 24 - 26 February, DA-IICT Gandhinagar, India.
+1. Delivering a talk on ANALYZING SOFTWARE SYSTEMS THROUGH SOCIAL NETWORK ANALYSIS in the 15th Innovations in Software Engineering Conference ISEC 2022 24 - 26 February, DA-IICT Gandhinagar, India.
 2. Delivered an Invited talk on, **Next Generation Middleware** , in the *International Workshop on  Distributed Computing (WDC-2001)* organized by Gujrath University, Ahmedabad from 19th to 21 December 2001. 
 3. Accepted a Tutorial on **Distributed Object Computing using Java/ORB** in the*International Conference on Parallel System and Distributed Symposium (IPDPS 2001)* which was held  in Sanfrancisco, USA,from 23 April 2001 to 27th April 2001.
 4. Conducted a tutorial on, **Next Generation Middleware**, in the *3rd International Conference on Information Technology (CIT-2000)* which was held from 20 December 2000 to 22 December 2000 at KIIT Bhuvneshvar, India
