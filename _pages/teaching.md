@@ -6,3 +6,8 @@ author_profile: true
 ---
 
 |#Year | #Course Title |Academic Level|
+---------------------------------------
+|2021  | Machine Learning  | UG |
+|      | Development Engineering |  UG|
+|      | Software Architecture | PG |
+_____________________________________
