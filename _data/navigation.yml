@@ -7,10 +7,14 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/     
+       
     
   - title: "Salesforce Credentials"
     url: /portfolio/
+    
+    title: "Online Teaching"
+    url: https://awk-cse-dbatu.thinkific.com/
         
   - title: "Blog@Medium"
     url: https://arvindkiwelekar.medium.com/
