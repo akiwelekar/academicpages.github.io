@@ -70,3 +70,12 @@ A book on **[Information and Communication and Technologies for Sustainable Deve
 28. Arvind W Kiwelekar, Y. N. Patil **Lexicon Query Service: A CORBA Facility for Medical Terminology System** is published in the proceedings of the  National Conference on Medical Informatics, held in Hyderabad organized by Institute of Public Enterprises  from 23/02/2000 to 24/02/2000 
 29. Arvind W Kiwelekar \textbf{Accounting System for Linux Based Network of Workstation}, is published in the proceedings of the  First  National conference on recent trends in Advanced Computing (NCRTAC-2000) , which  was held from 9/02/2000 to 10/02/2000 organized M. S. University, Thirunelveli. 
 30. Arvind W Kiwelekar, P. K. Sinha **Accounting System for MPP Class Machine based on Cluster Computing**, in the  6th International Conference on Advanced Computing (ADCOMP-98)  organized by C-DAC, Pune.
+
+# Pre-prints on Archival Server (Four)
+
+These are some of the peer-reviewed publications at various conference venues but not found suitable for publications. I made them available on pre-print server.
+
+1. TThakare S, Kiwelekar AW. **Redefining measures of Layered Architecture** arXiv preprint arXiv:2106.03079. 2021 Jun 6.
+2.   Kiwelekar, Arvind W. **A Software Architecture Teacher’s Dilemmas** arXiv preprint arXiv:2101.09434 (2021).
+3.   Kiwelekar AW. **Role of Ontology Training to Software Engineering Students** arXiv preprint arXiv:1910.07968. 2019 Oct 17.
+4.   Hansraj S Wankhede, Sanil Gandhi, Arvind W Kiwelekar,  **On Which Skills do  Indian Universities Evaluate Software Engineering Students?**,CoRR 2016
