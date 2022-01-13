@@ -7,7 +7,7 @@ main:
     url: /talks/  
         
   - title: "Teaching"
-    url: /teaching/           
+    url: _pages/teaching.md     
       -     
    - title: "Online Teaching"
     url: https://awk-cse-dbatu.thinkific.com/
