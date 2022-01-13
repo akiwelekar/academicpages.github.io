@@ -9,13 +9,13 @@ main:
   - title: "Teaching"
     url: /teaching/           
       -     
-    title: "Online Teaching"
+   - title: "Online Teaching"
     url: https://awk-cse-dbatu.thinkific.com/
         
   - title: "Blog@Medium"
     url: https://arvindkiwelekar.medium.com/
     
-    title: "Salesforce Credentials"
+   - title: "Salesforce Credentials"
     url: https://trailblazer.me/id/akiwelekar
 
     
