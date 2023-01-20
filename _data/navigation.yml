@@ -5,16 +5,10 @@ main:
 
   - title: "Talks"
     url: /talks/  
-        
-  - title: "Teaching"
-    url: _pages/teaching.md     
       -     
    - title: "Online Teaching"
     url: https://awk-cse-dbatu.thinkific.com/
-        
-  - title: "Blog@Medium"
-    url: https://arvindkiwelekar.medium.com/
-    
+          
    - title: "Salesforce Credentials"
     url: https://trailblazer.me/id/akiwelekar1 
     
