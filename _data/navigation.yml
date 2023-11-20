@@ -4,19 +4,17 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/   
+
+  - title: "Campus Courses"
+    url: https://akiwelekar.github.io/DevOps-101/
 
   - title: "Online Teaching"
     url: https://awk-cse-dbatu.thinkific.com/    
     
-  - title: "Salesforce"
+  - title: "Salesforce Credentials"
     url: https://trailblazer.me/id/akiwelekar1
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Blogging"
+    url: https://arvindkiwelekar.medium.com/  
+ 
