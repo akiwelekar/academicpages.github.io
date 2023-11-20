@@ -1,14 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+- title: "Publications"
       url: /publications/
-
-  - title: "Talks"
-    url: /talks/  
-      -     
-  - title: "Online Teaching"
-    url: https://awk-cse-dbatu.thinkific.com/ 
-    
-    
-  - title: "Salesforce"
+- title: "Talks"
+    url: /talks/             
+- title: "Online Teaching"
+    url: https://awk-cse-dbatu.thinkific.com/     
+- title: "Salesforce"
      url: https://trailblazer.me/id/akiwelekar1
