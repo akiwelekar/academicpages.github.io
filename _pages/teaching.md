@@ -16,3 +16,4 @@ author_profile: true
 |      | Development Engineering |  UG|
 |      | Python Programming| UG|
 |2024| [Software Engineering DevOps101](https://akiwelekar.github.io/DevOps-101/)|UG|
+|      | [Quantum Computing QC101](https://akiwelekar.github.io/qc101/))|UG|
