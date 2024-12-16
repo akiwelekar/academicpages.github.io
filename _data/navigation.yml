@@ -6,12 +6,9 @@ main:
   - title: "Teaching"
     url: /teaching/   
 
-  - title: "Campus Courses"
-    url: https://akiwelekar.github.io/DevOps-101/
+  - title: "Talks"
+    url: /talks/
 
-  - title: "Online Teaching"
-    url: https://awk-cse-dbatu.thinkific.com/    
-    
   - title: "Salesforce Credentials"
     url: https://trailblazer.me/id/akiwelekar1
         
