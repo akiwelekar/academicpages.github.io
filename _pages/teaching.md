@@ -10,16 +10,16 @@ author_profile: true
 |2024| [Software Engineering DevOps101](https://akiwelekar.github.io/DevOps-101/)|UG|
 |      | [Quantum Computing QC101](https://akiwelekar.github.io/qc101/))|UG|
 |2023  | [Machine Learning](https://awk-cse-dbatu.thinkific.com/) | UG |
-|      | Development Engineering |  UG|
+|      | [Development Engineering](https://ict4d.substack.com/) |  UG|
 |      | Software Architecture | PG |
 |2022  | [Machine Learning](https://awk-cse-dbatu.thinkific.com/) | UG |
-|      | Development Engineering |  UG|
+|      | [Development Engineering](https://ict4d.substack.com/) |  UG|
 |      | Software Architecture | PG |
 |2021  | [Machine Learning](https://awk-cse-dbatu.thinkific.com/) | UG |
-|      | Development Engineering |  UG|
+|      | [Development Engineering](https://ict4d.substack.com/) |  UG|
 |      | Software Architecture | PG |
 |2020 |[Machine Learning](https://awk-cse-dbatu.thinkific.com/)g  | UG |
-|      | Development Engineering |  UG|
+|      | [Development Engineering](https://ict4d.substack.com/) |  UG|
 |2019 |[Machine Learning](https://awk-cse-dbatu.thinkific.com/)  | UG |
-|      | Development Engineering |  UG|
+|      |[Development Engineering](https://ict4d.substack.com/) |  UG|
 |      | Python Programming| UG|
