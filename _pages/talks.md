@@ -19,19 +19,4 @@ This is a description of your talk, which is a markdown files that can be all ma
 5. Conducted a tutorial on,**CORBA: As a Cluster Middleware**, in the *2nd International conference on Cluster Computing(Cluster-2000)* organized by  IEEE TFCC at Universitat of Techninische, Chemnitz, Saxony,Germany from 25th Nov. 2000 to 1 Dec. 2000 
 6. Delivered an Invited Talk on **Distributed Object Computing using CORBA**, in \textbf{National Seminar on Information Technology-Current Trends-2000 (IT-CT2000)} on 23/01/2000 organized by University of Amaravati, Amaravati. 
 7. Conducted a tutorial on, **Distributed Object Computing using CORBA**, in the *7th International conference on Advanced Computing (ADCOM-99)* held from 20/12/199 to 22/12/1999 organized by University of Roorkee.
- 
 
-
-# Organizational Activities  
- 
-1.  Member of Technical Program Committee and Chaired a special session on *Cognitive Learning Analytics”* in the **13th International Conference on “Intelligent Human-Computer Interaction (IHCI-2021)**  held at Kent Ohio, USA.
-2.  Member of the Technical Program Committee AFEC 2021 The **2nd IEEE International Workshop on Advances in Fog/Edge Computing (AFEC 2021)** July 19 – July 22, 2021, Athens, Greece.
-3.  Member of Technical Program Committee and Chaired a special session on *Cognitive Learning Analytics* in the 12th International Conference on **Intelligent Human-Computer Interaction (IHCI-2020)** to be held from 24th to 26th Nov. 2020 EXCO-Daegu South Korea.
-4.  Member of Technical program committee  AFEC 2020 **The 1st IEEE International Workshop on Advances in Fog/Edge Computing (AFEC 2020)** August 3 - August 6, 2020, Honolulu, Hawaii, USA
-5.  Organized One Week Short-Term Training Program  on **Software Architecture** which  was held from 22nd Sept 2016 to 27th Sept 2016. The programmer was sponsored by TEQIP(II). 
-6.  Worked as a  Organizing Chair for **5th National Conference on Object Oriented Technology(NCOOT-2003)** held at Dr. Babasaheb Ambedkar Technological University, Lonere from 8th August 2003 to 9th August 2003 
-7.  Worked as a Member of the organizing committee for the Annual Convention of ISTE Maharashtra-Goa Section hosted by the Dr. Babasaheb Ambedkar Technological University, Lonere.
-8.  Organized Two Weeks Short Term Training Program  on **Introduction to Software Architecture**  which  was held from 23rd June 2003 to 7th July 2003. The programmer was sponsored by All India Council for Technical Education. 
-9.  Organized Two Weeks Short Term Training Program  on  **Distributed Object Computing using Java/CORBA** which  was held from 4th February 2002 to 16th February 2002. The programmer was sponsored by All India Council for Technical Education. 
-10.  Organized Two Weeks Short Term Training Program  on **Embedded System Design** which  was held from 24th November 2003 to 5th December 2003. The 
-programmer was sponsored by All India Council for Technical Education.
