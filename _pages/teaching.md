@@ -15,3 +15,4 @@ author_profile: true
 |2019 |Machine Learning  | UG |
 |      | Development Engineering |  UG|
 |      | Python Programming| UG|
+|2024| [Software Engineering DevOps101](https://akiwelekar.github.io/DevOps-101/)|UG|
