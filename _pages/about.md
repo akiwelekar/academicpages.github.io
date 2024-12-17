@@ -19,6 +19,8 @@ News, Recent Publications, and Talks
 ======
 
 1.Gaikwad, Harsha R., and Arvind W. Kiwelekar. **A Generative AI-Based Assistant to Evaluate Short and Long Answer Questions**. SN Computer Science 5, no. 5 (2024): 633
+
 2. Pantoja Y´epez, Wilson Libardo, Julio Ariel Hurtado Alegr´ıa, Ajay Bandi, and Arvind W. Kiwelekar. **Training software architects suiting software industry needs: A literature review.** Education and Information Technologies 29, no. 9 (2024): 10931-10994.
+   
 3. Dr. Arvind W Kiwelekar has been appointed as **Registrar (In-charge)**   of Dr. Babasaheb Ambedkar Technological University by the Hon. Vice-chancellor on 15 December 2023.
  
