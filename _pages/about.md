@@ -18,7 +18,7 @@ redirect_from:
 News, Recent Publications, and Talks
 ======
 
-1. I will delivering a talk on **[ANALYZING SOFTWARE SYSTEMS THROUGH SOCIAL NETWORK ANALYSIS](https://isoft.acm.org/isec2022/tech_sna)** in the *15th Innovations in Software Engineering Conference* ISEC 2022 24 - 26 February, DA-IICT Gandhinagar, India.
-2. A paper  authored by Sanjay B Thakre, Arvind W Kiwelekar  **Software Layer Recovery through Ego Network Analysis** has been accepted  in the 37th *ACM/SIGAPP Symposium On Applied Computing*  SAC-2022 to be held from April 25 - April 29, 2022.
-3. A paper has been published authored by Sanjay B Thakre, Arvind W Kiwelekar  **Mapping Program Elements to Layers using Centrality Measures and Machine Learning Techniques** in the   first International Workshop on Software Architecture and Machine Learning(SAML) Co-located with the *15th European Conference on Software Architecture (ECSA) 2021* 14th  September 2021.
+1.Gaikwad, Harsha R., and Arvind W. Kiwelekar. **A Generative AI-Based Assistant to Evaluate Short and Long Answer Questions**. SN Computer Science 5, no. 5 (2024): 633
+2. Pantoja Y´epez, Wilson Libardo, Julio Ariel Hurtado Alegr´ıa, Ajay Bandi, and Arvind W. Kiwelekar. **Training software architects suiting software industry needs: A literature review.** Education and Information Technologies 29, no. 9 (2024): 10931-10994.
+3. Dr. Arvind W Kiwelekar has been appointed as **Registrar (In-charge)**   of Dr. Babasaheb Ambedkar Technological University by the Hon. Vice-chancellor on 15 December 2023.
  
